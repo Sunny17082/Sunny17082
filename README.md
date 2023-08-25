@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/sunny-prasad-527588221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-prasad-527588221" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="coding" width="100" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny17082" alt="sunny17082" /></a> </p>
 
