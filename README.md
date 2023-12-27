@@ -5,7 +5,9 @@ Written by Anonymous
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny17082&label=Profile%20views&color=0e75b6&style=flat" alt="sunny17082" /> </p>
  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"> 
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+</p>
  
  
 - 📫 How to reach me **sunnyprasad1708@gmail.com**
