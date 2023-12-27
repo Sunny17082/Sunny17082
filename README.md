@@ -16,7 +16,7 @@
 # 📊 GitHub Stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunny17082&theme=dark&show_icons=true&locale=en&layout=compact" alt="sunny17082" /></p>
  
-<p> <img src="https://github-readme-stats.vercel.app/api?username=sunny17082&theme=dark&show_icons=true&locale=en" alt="sunny17082" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=sunny17082&theme=dark&show_icons=true&locale=en" alt="sunny17082" /></p>
  
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny17082&theme=dark" alt="sunny17082" /></p>
  
