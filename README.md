@@ -27,6 +27,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sunny17082&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunny17082&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![An image of @sunny17082's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunny17082)](https://holopin.io/@sunny17082)
